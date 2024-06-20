@@ -1,0 +1,2 @@
+the number is 34
+thanks for using fprintf
